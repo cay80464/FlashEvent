@@ -98,7 +98,7 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 5, vars: 0, consts: [["fixed", "", 2, "background-image", "url('./../../assets/image/title.png')", "background-size", "100% 100%"], [2, "background-color", "#f3a1c7"], ["fixed", ""]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 5, vars: 0, consts: [["fixed", "", 2, "background-image", "url('./assets/image/title.png')", "background-size", "100% 100%"], [2, "background-color", "#f3a1c7"], ["fixed", ""]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "nb-layout");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "nb-layout-header", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "nb-layout-column", 1);
@@ -646,7 +646,7 @@ class Page5Component {
     }
 }
 Page5Component.ɵfac = function Page5Component_Factory(t) { return new (t || Page5Component)(); };
-Page5Component.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Page5Component, selectors: [["app-page5"]], decls: 12, vars: 0, consts: [[2, "height", "100vh -10px", "width", "100vw - 50px"], ["src", "./../../assets/image/n1.png", 2, "width", "250px"], ["src", "./../../assets/image/a1.png", 2, "width", "700px"], ["src", "./../../assets/image/n2.png", 2, "width", "250px"], ["src", "./../../assets/image/a3.png", 2, "width", "700px"], ["src", "./../../assets/image/n3.png", 2, "width", "250px"], ["src", "./../../assets/image/a2.png", 2, "width", "700px"]], template: function Page5Component_Template(rf, ctx) { if (rf & 1) {
+Page5Component.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: Page5Component, selectors: [["app-page5"]], decls: 12, vars: 0, consts: [[2, "height", "100vh -10px", "width", "100vw - 50px"], ["src", "./assets/image/n1.png", 2, "width", "250px"], ["src", "./assets/image/a1.png", 2, "width", "700px"], ["src", "./assets/image/n2.png", 2, "width", "250px"], ["src", "./assets/image/a3.png", 2, "width", "700px"], ["src", "./assets/image/n3.png", 2, "width", "250px"], ["src", "./assets/image/a2.png", 2, "width", "700px"]], template: function Page5Component_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "img", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "br");
