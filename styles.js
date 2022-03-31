@@ -439,7 +439,7 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\賀\Desktop\FlashEvent\Project\FlashEvent\FlashEvent\src\styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! C:\Users\賀\Desktop\FlashEvent\Project2\AAA\FlashEvent\FlashEvent\src\styles.scss */"./src/styles.scss");
 
 
 /***/ })
